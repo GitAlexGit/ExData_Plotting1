@@ -16,7 +16,24 @@ will subsequently use this time-date column only.
 
 A PNG device shall be opened, and all plots generated.
 
+## Plots
+The plots generated
+
+###Plot 1
+
+![Plot 1](plot1.png)
 
 
+###Plot 2
 
+![Plot 1](plot2.png)
+
+
+###Plot 3
+
+![Plot 1](plot3.png)
+
+
+###Plot 4
+![Plot 1](plot4.png)
 
